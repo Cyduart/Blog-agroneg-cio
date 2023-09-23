@@ -1,0 +1,83 @@
+html{
+    margin: 0;
+    padding: 0;
+}
+
+#pagina-inicial{
+    color: white;
+}
+
+#pagina-inicial h1{
+    margin-top: 10%;
+}
+
+.bg-gray {
+    background-color: #f2f2f2;
+}
+
+.bg-custom {
+    background-color:#27435C; 
+}
+
+
+.bg-image {
+    background-image: url('assets/Bg\ incio.webp');
+    background-size: cover;
+    background-position: bottom;
+    background-repeat: no-repeat;
+}
+
+
+
+.carousel-item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.carousel-item img {
+    display: block;
+    margin: 0 auto;
+}
+
+
+.carousel-control-prev-icon {
+    background-color: black;
+}
+
+.carousel-control-next-icon {
+    background-color: black;
+}
+
+.carousel-caption h5,
+.carousel-caption p {
+    font-size: 20px;
+    backdrop-filter: blur(3px); /* Aplica um efeito de borrado ao fundo */
+    color: #ffffff; 
+    font-family: 'Inter Tight', sans-serif;
+    font-family: 'Martian Mono', monospace;
+    font-family: 'Space Grotesk', sans-serif;
+
+}
+
+
+.carousel-control-prev,
+.carousel-control-next {
+    margin-left: 100px; /* Ajuste o valor conforme necessário */
+    margin-right: 100px; /* Ajuste o valor conforme necessário */
+}
+
+.{
+    color: black;
+    
+}
+
+@media (max-width: 768px) {
+   
+    }
+   
+
+}
+
+
