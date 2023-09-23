@@ -23,7 +23,7 @@ html{
 .bg-image {
     background-image: url('assets/Bg\ incio.webp');
     background-size: cover;
-    background-position: bottom;
+    background-position: top;
     background-repeat: no-repeat;
 }
 
