@@ -74,10 +74,15 @@ html{
 }
 
 @media (max-width: 768px) {
+    .carousel-control-prev,
+.carousel-control-next {
+    margin-left: 1px; /* Ajuste o valor conforme necessário */
+    margin-right:1px; /* Ajuste o valor conforme necessário */
+}
    
     }
    
 
-}
+
 
 
